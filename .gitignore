@@ -9,6 +9,7 @@ logs/
 *.worksheet.sc
 .ammonite/
 .bloop/
+postgres-data/
 .dotty-ide*
 .idea/
 .metals/
